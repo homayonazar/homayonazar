@@ -32,13 +32,6 @@ I’m Homayonazar, a 10-year-old web developer with a strong passion for buildin
   ![CSS Modules](https://img.shields.io/badge/-CSS%20Modules-000?style=flat&logo=css3&logoColor=1572B6)  
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
 
-- **Backend:**  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)  
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=fff)
-
-- **Database:**  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 
 - **Tools:**  
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)  
