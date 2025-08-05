@@ -25,8 +25,7 @@ I’m Homayonazar, a 10-year-old web developer with a strong passion for buildin
 
 - **Frontend Frameworks:**  
   ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-  ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=fff)  
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=fff)
+
 
 - **Styling:**  
   ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=fff)  
